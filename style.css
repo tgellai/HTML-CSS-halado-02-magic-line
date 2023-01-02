@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins' sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 body{
@@ -30,4 +30,11 @@ body{
     justify-content: center;
     align-items: center;
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25)
+}
+
+.year span b{
+    font-size: 6em;
+    font-weight: 700;
+    -webkit-text-stroke: 2px var(--clr);
+    color: transparent;
 }
