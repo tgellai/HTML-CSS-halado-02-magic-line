@@ -3,6 +3,8 @@
 Ebben a repóban egy "magic line fill animation" típusú, JS nélküli, csak CSS használatával megoldott projekt megvalósítás található.
 </h3>
 
+<img alt="példa" src="https://raw.githubusercontent.com/tgellai/HTML-CSS-halado-02-magic-line/main/sources/2023.gif"/>
+
 <p>
 Az eredeti elképzelés szerint az oldal közepén, vízszintesen, négy egymás mellett elhelyezkedő csempe található. Mind a négy csempében 1-1 szám, amelyek kitöltés nélküliek, tehát csak a körvonaluk látszódik.
 </p>
